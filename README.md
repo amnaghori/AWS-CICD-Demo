@@ -1,1 +1,1 @@
-# AWS-Project-Demo
+# AWS-CICD-Demo
